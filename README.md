@@ -11,7 +11,7 @@ npm install
 npm run build
 ```
 
-This will take the source from `content/` folder, then generate a static site into `publish/` folder.
+This will take the source from `content/` folder, then generate a static site into `public/` folder.
 
 ### Run
 
