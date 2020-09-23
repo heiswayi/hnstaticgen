@@ -1,0 +1,28 @@
+{
+  "name": "hnstaticgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "keywords": [
+    "ssg",
+    "static",
+    "site",
+    "generator",
+    "minimalist",
+    "simple"
+  ],
+  "author": "Heiswayi Nrird",
+  "license": "MIT",
+  "dependencies": {
+    "front-matter": "^3.1.0",
+    "highlight.js": "^9.18.1",
+    "markdown-it": "^11.0.1",
+    "markdown-it-footnote": "^3.0.2",
+    "markdown-it-kbd": "^2.2.0",
+    "markdown-it-multimd-table": "^4.0.3",
+    "markdown-it-task-lists": "^2.1.1"
+  }
+}

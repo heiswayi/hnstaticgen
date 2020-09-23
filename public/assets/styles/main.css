@@ -1,0 +1,39 @@
+.site {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
+}
+.post-meta {
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+.post-meta span.post-date {
+    opacity: 0.5;
+}
+.post-meta h1.post-title {
+    margin-top: 0;
+    border-bottom: none;
+}
+footer {
+    margin-top: 70px;
+}
+header.intro h1 {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.post h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.post small {
+    opacity: 0.5;
+}
+
+@media (max-width: 767px) {
+    .site {
+        padding: 15px;
+    }
+}
