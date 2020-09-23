@@ -22,3 +22,11 @@ http-server .
 ```
 
 To see the site, visit: http://localhost:8080
+
+## Author
+
+[Heiswayi Nrird](https://heiswayi.nrird.com)
+
+## License
+
+[MIT](LICENSE)
