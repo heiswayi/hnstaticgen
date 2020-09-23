@@ -2,7 +2,7 @@
 
 HN Static Site Generator based on NodeJS.
 
-### Build
+### Build the site
 
 ```bash
 git clone https://github.com/heiswayi/hnstaticgen.git
@@ -13,7 +13,7 @@ npm run build
 
 This will take the source from `content/` folder, then generate a static site into `public/` folder.
 
-### Run
+### View the site
 
 ```bash
 npm install -g http-server
@@ -29,4 +29,4 @@ To see the live site, visit: http://localhost:8080
 
 ## License
 
-[MIT](LICENSE)
+MIT
