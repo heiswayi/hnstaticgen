@@ -1,6 +1,6 @@
 # hnstaticgen
 
-HN Static Site Generator
+HN Static Site Generator based on NodeJS.
 
 ### Build
 
@@ -21,7 +21,7 @@ cd public
 http-server .
 ```
 
-To see the site, visit: http://localhost:8080
+To see the live site, visit: http://localhost:8080
 
 ## Author
 
