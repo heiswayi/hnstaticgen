@@ -1,13 +1,13 @@
 # HN Static Site Generator
 
-A simple, elegant static site generator with a retro Apple System 6 design powered by [system.css](https://github.com/sakofchit/system.css). Transform your markdown files into a beautiful nostalgic website with ease!
+A simple, elegant static site generator with clean, minimal design. Transform your markdown files into a beautiful, readable website with ease!
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D12.0.0-brightgreen.svg)
 
 ## Features
 
-- **🎨 Retro Design** - Beautiful Apple System 6 inspired interface using system.css
+- **🎨 Clean & Minimal Design** - Beautiful, distraction-free reading experience with clean typography
 - **📝 Markdown Support** - Write in markdown with extended features (tables, footnotes, task lists, code highlighting)
 - **🚀 Zero Configuration** - Works out of the box with sensible defaults
 - **📡 RSS Feed** - Automatic RSS feed generation for your blog
@@ -18,6 +18,7 @@ A simple, elegant static site generator with a retro Apple System 6 design power
 - **👀 Watch Mode** - Auto-rebuild when files change
 - **📦 Asset Management** - Automatic copying of images and other assets
 - **💅 Syntax Highlighting** - Beautiful code highlighting with highlight.js
+- **📱 Responsive Design** - Mobile-friendly layout that works on all devices
 
 ## Quick Start
 
@@ -223,10 +224,10 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-- Design inspired by [system.css](https://github.com/sakofchit/system.css)
 - Markdown parsing by [markdown-it](https://github.com/markdown-it/markdown-it)
 - Syntax highlighting by [highlight.js](https://highlightjs.org/)
+- Markdown body styles by [github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
 
 ---
 
-Made with ❤️ using Node.js and a touch of nostalgia
+Made with ❤️ using Node.js and minimal design principles
