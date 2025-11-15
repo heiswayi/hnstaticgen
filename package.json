@@ -1,10 +1,16 @@
 {
   "name": "hnstaticgen",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple, elegant static site generator with retro Apple System 6 design",
+  "main": "src/cli.js",
+  "bin": {
+    "hnstaticgen": "./src/cli.js"
+  },
   "scripts": {
-    "build": "node ./src/index.js"
+    "build": "node ./src/cli.js build",
+    "serve": "node ./src/cli.js serve",
+    "dev": "node ./src/cli.js dev",
+    "help": "node ./src/cli.js help"
   },
   "keywords": [
     "ssg",
@@ -12,7 +18,11 @@
     "site",
     "generator",
     "minimalist",
-    "simple"
+    "simple",
+    "blog",
+    "markdown",
+    "retro",
+    "system.css"
   ],
   "author": "Heiswayi Nrird",
   "license": "MIT",
