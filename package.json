@@ -1,7 +1,7 @@
 {
   "name": "hnstaticgen",
   "version": "1.0.0",
-  "description": "A simple, elegant static site generator with retro Apple System 6 design",
+  "description": "A simple, elegant static site generator with clean, minimal design",
   "main": "src/cli.js",
   "bin": {
     "hnstaticgen": "./src/cli.js"
@@ -21,8 +21,10 @@
     "simple",
     "blog",
     "markdown",
-    "retro",
-    "system.css"
+    "clean-design",
+    "typography",
+    "rss",
+    "sitemap"
   ],
   "author": "Heiswayi Nrird",
   "license": "MIT",
