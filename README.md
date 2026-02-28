@@ -5,6 +5,8 @@ A simple, elegant static site generator with clean, minimal design. Transform yo
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D12.0.0-brightgreen.svg)
 
+**Demo:** https://hnstaticgen.netlify.app/
+
 ## Features
 
 - **🎨 Clean & Minimal Design** - Beautiful, distraction-free reading experience with clean typography
